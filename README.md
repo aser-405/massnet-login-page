@@ -2,7 +2,7 @@
   <img src="logo.jpeg" alt="Project logo" width="150">
 </p>
 
-<h1 align="center">MassNet Login Page</h1>
+<h1 align="center">Hotspot Login Page for market </h1>
 
 <p align="center">
   Arabic responsive login page design with branded visuals, local image assets, and mobile-first HTML/CSS layout.
